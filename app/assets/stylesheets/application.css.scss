@@ -47,6 +47,10 @@ background: linear-gradient(to left, #00c6ff , #0072ff); /* W3C, IE 10+/ Edge, F
     opacity: 0.75;
   }
 }
+.navbar-brand {
+  font: "open-sans, sans-serif" ;
+  font-weight: 800;
+}
 
 // Home Styles
 .home-callout {
